@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Summer Internship Program",
+    "company": "Microsoft",
+    "tags": ["Internship"],
+    "link": "https://careers.microsoft.com"
+  },
+  {
+    "id": 2,
+    "title": "AI Hackathon 2025",
+    "company": "Google",
+    "tags": ["Hackathon"],
+    "link": "https://hackathons.google.com"
+  },
+  {
+    "id": 3,
+    "title": "Graduate Software Engineer Role",
+    "company": "Amazon",
+    "tags": ["Job"],
+    "link": "https://amazon.jobs"
+  },
+  {
+    "id": 4,
+    "title": "Global Scholarship Program",
+    "company": "OpenAI",
+    "tags": ["Scholarship"],
+    "link": "https://openai.com/scholarships"
+  },
+  {
+    "id": 5,
+    "title": "Frontend Developer Bootcamp",
+    "company": "Udemy",
+    "tags": ["Training"],
+    "link": "https://udemy.com/bootcamp"
+  },
+  {
+    "id": 6,
+    "title": "Cloud Computing Fellowship",
+    "company": "AWS",
+    "tags": ["Fellowship"],
+    "link": "https://aws.amazon.com/fellowships"
+  },
+  {
+    "id": 7,
+    "title": "Data Science Competition",
+    "company": "Kaggle",
+    "tags": ["Competition"],
+    "link": "https://kaggle.com/competitions"
+  },
+  {
+    "id": 8,
+    "title": "Global Health Tech Hackathon",
+    "company": "WHO",
+    "tags": ["Hackathon"],
+    "link": "https://who.int/hackathon"
+  },
+  {
+    "id": 9,
+    "title": "AI for Good Challenge",
+    "company": "UNESCO",
+    "tags": ["Competition"],
+    "link": "https://unesco.org/ai-challenge"
+  },
+  {
+    "id": 10,
+    "title": "Machine Learning Residency",
+    "company": "DeepMind",
+    "tags": ["Residency", "Job"],
+    "link": "https://deepmind.com/careers"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Doe",
+    "role": "Software Engineer",
+    "tagline": "Engineer at Microsoft",
+    "contact": "https://linkedin.com/in/janedoe",
+    "avatar": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "name": "John Smith",
+    "role": "Data Scientist",
+    "tagline": "AI Research at Google",
+    "contact": "https://linkedin.com/in/johnsmith",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Fatima Ali",
+    "role": "Product Manager",
+    "tagline": "Building fintech solutions",
+    "contact": "mailto:fatima.ali@example.com",
+    "avatar": "https://randomuser.me/api/portraits/women/68.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Carlos Mendes",
+    "role": "UX Designer",
+    "tagline": "Designing at Airbnb",
+    "contact": "https://linkedin.com/in/carlosmendes",
+    "avatar": "https://randomuser.me/api/portraits/men/77.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Akira Tanaka",
+    "role": "Full Stack Developer",
+    "tagline": "Engineer at Sony Japan",
+    "contact": "https://linkedin.com/in/akira-t",
+    "avatar": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Linda Njoroge",
+    "role": "Cloud Engineer",
+    "tagline": "AWS Specialist, Nairobi",
+    "contact": "mailto:linda.n@example.com",
+    "avatar": "https://randomuser.me/api/portraits/women/29.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Omar Hassan",
+    "role": "Cybersecurity Analyst",
+    "tagline": "Securing fintech systems",
+    "contact": "https://linkedin.com/in/omarh",
+    "avatar": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Sophia Lee",
+    "role": "AI Researcher",
+    "tagline": "PhD Candidate at MIT",
+    "contact": "https://linkedin.com/in/sophialee",
+    "avatar": "https://randomuser.me/api/portraits/women/53.jpg"
+  },
+  {
+    "id": 9,
+    "name": "David Kim",
+    "role": "Entrepreneur",
+    "tagline": "Founder @ TechStart",
+    "contact": "mailto:david.kim@techstart.com",
+    "avatar": "https://randomuser.me/api/portraits/men/28.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Maria Gonzalez",
+    "role": "Data Engineer",
+    "tagline": "Big Data at Spotify",
+    "contact": "https://linkedin.com/in/maria-g",
+    "avatar": "https://randomuser.me/api/portraits/women/84.jpg"
+  }
+]
